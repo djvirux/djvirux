@@ -67,7 +67,7 @@ Y alguna que se me olvidara... ¿existen límites?
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/?username=djvirux&theme=tokyonight&showicons=true"
+      srcset="https://github-readme-stats.vercel.app/api/?username=djvirux&theme=tokyonight&showicons=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=djvirux&show_icons=true" />
